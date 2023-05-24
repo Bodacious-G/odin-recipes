@@ -1,0 +1,36 @@
+ul, ol {
+    border-style: solid;
+    border-color: purple;
+    background-color: rgb(214, 214, 243)
+}
+
+.title-text {
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.main-title {
+    text-align: center;
+    margin-top: 50px;
+    border-style: dashed;
+    border-color: chocolate;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.title-text.links {
+    font-size: 20px;
+    border-style: solid;
+    border-color: blue;
+    padding: 10px;
+    margin-right: 1000px;
+    background-color: rgb(202, 219, 225);
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
